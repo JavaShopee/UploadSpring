@@ -10,7 +10,7 @@ public class HomeController {
 	@RequestMapping("/home")
 	@ResponseBody
 	public String home() {
-		return "Hello Java";
+		return "Hello Java and AWS";
 	}
 	
 }
